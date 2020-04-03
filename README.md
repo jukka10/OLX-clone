@@ -3,7 +3,7 @@
   <img src="./src/assests/logo.png" alt="OLX_CLONE" width="150">
 <br>
 <br>
-Project Dev (OLX - Clone)
+🔥 Project Dev (OLX - Clone)
 </h1>
 <p align="center">A project made in ReactJS reproducing the OLX interface</p>
 <p align="center">

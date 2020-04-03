@@ -7,10 +7,10 @@ Project Dev (OLX - Clone)
 </h1>
 <p align="center">A project made in ReactJS reproducing the OLX interface</p>
 <p align="center">
-  <a href="https://opensource.org/licenses/MIT">
+  <a href="https://opensource.org/licenses/MIT"></a>
     <img src="./src/assests/print1.png" alt="License MIT" width="500">
     <img src="./src/assests/print2.png" alt="License MIT" width="500">
-  </a>
+
 </p>
 
 ## Features

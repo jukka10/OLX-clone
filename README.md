@@ -15,7 +15,7 @@
 
 ## Features
 
-This app features all the latest tools and practices in mobile development!
+This app features all the latest tools and practices in Web development!
 - ⚛️ **React Js** — A JavaScript library for building user interfaces
 - 🔃 **React Router** - A JavaScript library for building routes of navigation
 - 🔯 **Redux** - For state control of application
